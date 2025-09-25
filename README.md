@@ -1,7 +1,7 @@
 Assignment 4 - Components
 ===
 
-Forked the wrong repo but set upstream to point towards a4-components-a25
+Forked repository with upstream correctly configured to point to jmcuneo/a4-components-a25
 
 ## The Best Todo App
 
